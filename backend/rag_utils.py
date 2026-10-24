@@ -46,7 +46,7 @@ def generate(query, retrieved_chunks,model) -> str:
        - Room information
        - Guest guidelines
        - Limitations
-       - Exceptions      
+       - Exceptions
     6. Do not invent AuroraStay Hotels procedures, cancellation policies, booking terms, or room information.
     7. If the retrieved documentation does not contain enough information to
       answer the question, respond exactly with:
